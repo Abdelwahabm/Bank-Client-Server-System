@@ -1,0 +1,75 @@
+{
+    "Accounts": [
+        {
+            "Admin": true,
+            "Password": "1234",
+            "Username": "mohamed",
+            "accountNumber": 1540283147
+        },
+        {
+            "Admin": false,
+            "Password": "1234",
+            "Username": "abdelwahab",
+            "accountNumber": 1540283163
+        },
+        {
+            "Admin": false,
+            "Password": "1234",
+            "Username": "morad",
+            "accountNumber": 1540429092
+        }
+    ],
+    "Transaction_History": {
+        "data": [
+        ]
+    },
+    "Users_Personal_Data": [
+        {
+            "Age": 26,
+            "Balance": 0,
+            "Name": "Mohamed Ahmed",
+            "Username": "mohamed",
+            "accountNumber": 1540283147
+        },
+        {
+            "Age": 26,
+            "Balance": 8000,
+            "Name": "Mohamed Abdelwahab",
+            "Username": "abdelwahab",
+            "accountNumber": 1540283163
+        },
+        {
+            "Age": 26,
+            "Balance": 7000,
+            "Name": "Morad Mohamed",
+            "Username": "morad",
+            "accountNumber": 1540429092
+        }
+    ],
+    "transactionHistory": [
+        {
+            "Amount": 5000,
+            "Date": "22-07-2024",
+            "Time": "22:01:26",
+            "accountNumber": 1540283163
+        },
+        {
+            "Amount": 10000,
+            "Date": "22-07-2024",
+            "Time": "22:02:54",
+            "accountNumber": 1540429092
+        },
+        {
+            "Amount": -3000,
+            "Date": "22-07-2024",
+            "Time": "22:03:15",
+            "accountNumber": 1540429092
+        },
+        {
+            "Amount": 3000,
+            "Date": "22-07-2024",
+            "Time": "22:03:15",
+            "accountNumber": 1540283163
+        }
+    ]
+}

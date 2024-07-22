@@ -1,0 +1,15 @@
+# ninja log v5
+6	1793	7433778751287111	Server_autogen/timestamp	6354ed7782e5c819
+6	1793	7433778751287111	Server_autogen/mocs_compilation.cpp	6354ed7782e5c819
+6	1793	7433778751287111	D:/Embedded system/ITIDA/Gradution project/Bank Client Server System/Code/Server/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Server_autogen/timestamp	6354ed7782e5c819
+6	1793	7433778751287111	D:/Embedded system/ITIDA/Gradution project/Bank Client Server System/Code/Server/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Server_autogen/mocs_compilation.cpp	6354ed7782e5c819
+1817	6754	7433778802451589	CMakeFiles/Server.dir/terminal.cpp.obj	8bb2a1a8b81e6050
+1867	7808	7433778813108689	CMakeFiles/Server.dir/respondhandler.cpp.obj	c677f60e0c09301
+1881	8137	7433778816421347	CMakeFiles/Server.dir/clientresponse.cpp.obj	dc63f4554ba14aa
+1899	8158	7433778816560973	CMakeFiles/Server.dir/accountservices.cpp.obj	f54c3cd9a5dcfae
+1906	8266	7433778817673313	CMakeFiles/Server.dir/transactionservices.cpp.obj	d34b9831d5ba839c
+1801	8321	7433778818282447	CMakeFiles/Server.dir/main.cpp.obj	dfb26fd8339b1298
+1875	8325	7433778818282447	CMakeFiles/Server.dir/database.cpp.obj	82c5968715a83577
+1794	8501	7433778819982850	CMakeFiles/Server.dir/Server_autogen/mocs_compilation.cpp.obj	e3d79e6f75c356af
+1810	8997	7433778825004274	CMakeFiles/Server.dir/server.cpp.obj	e2cc972f38a9cff
+8998	9734	7433778832209840	Server.exe	b1e741c1bdaa28eb

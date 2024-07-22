@@ -1,0 +1,11 @@
+# ninja log v5
+11	2482	7433779170542996	Client_autogen/timestamp	85b8ce5d68244b8d
+11	2482	7433779170542996	Client_autogen/mocs_compilation.cpp	85b8ce5d68244b8d
+11	2482	7433779170542996	D:/Embedded system/ITIDA/Gradution project/Bank Client Server System/Code/Client/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Client_autogen/timestamp	85b8ce5d68244b8d
+11	2482	7433779170542996	D:/Embedded system/ITIDA/Gradution project/Bank Client Server System/Code/Client/build/Desktop_Qt_6_5_3_MinGW_64_bit-Debug/Client_autogen/mocs_compilation.cpp	85b8ce5d68244b8d
+2492	7764	7433779224877224	CMakeFiles/Client.dir/main.cpp.obj	67629c0e08d186d3
+2483	8439	7433779231602937	CMakeFiles/Client.dir/Client_autogen/mocs_compilation.cpp.obj	27e5a45570043ffe
+2499	9240	7433779239419693	CMakeFiles/Client.dir/mainwindow.cpp.obj	7525db150cc06bb3
+2505	9426	7433779241451007	CMakeFiles/Client.dir/userwindow.cpp.obj	af66feb56cd65938
+2512	9685	7433779243951007	CMakeFiles/Client.dir/adminwindow.cpp.obj	baa8738cf0ea8f4e
+9685	10439	7433779251452602	Client.exe	8a515016944dda6e
